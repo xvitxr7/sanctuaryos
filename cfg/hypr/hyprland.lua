@@ -36,6 +36,7 @@ end)
 
 hl.env("XCURSOR_SIZE", "24")
 hl.env("HYPRCURSOR_SIZE", "24")
+hl.env("HYPRCURSOR_THEME", "Future")
 
 -- dolphin and other QT apps
 hl.env("QT_QPA_PLATFORM", "wayland")
