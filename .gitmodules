@@ -1,0 +1,6 @@
+[submodule "soshell"]
+	path = soshell
+	url = https://github.com/xvitxr7/soshell
+[submodule "cfg/quickshell/soshell"]
+	path = cfg/quickshell/soshell
+	url = https://github.com/xvitxr7/soshell
