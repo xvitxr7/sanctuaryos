@@ -1,0 +1,5 @@
+default {
+  shader halftones.glsl
+  shader_speed 1.0
+  pause_on_fullscreen false
+}
