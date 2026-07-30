@@ -11,6 +11,8 @@ The structure is simple enough for current purposes:
 # The project
 My idea of a SanctuaryOS is a full-fledged GNU/Linux distribution with custom configurations and applications to match the DUSQK Universe. Currently, I'm building the [Quickshell interface](https://github.com/xvitxr7/soshell), which is a small step, but rest assured as it isn't the final product. With such creative and talented community, I'm certain that a lot can be done to make this a reality.
 
+Making such distro is absolutely possible, only time consuming, as we'd have to create a custom installer, build the ISO (possibly, check [archiso](https://wiki.archlinux.org/title/Archiso)), revise configs and defaults and make our own tools. But that's where the fun lives, right?
+
 ## Some thoughts
 As described lore-wise, SanctuaryOS is actually more than an operating system, also being an _intranet_ of sorts, where all citizens of Sanctuary City interact, communicate, hangout, play and such. I don't think building a dedicated social platform solely for SanctuaryOS is a good idea, but the idea is undeniably awesome. For that reason, I decided to keep only a few aspects of it, like SanctuaryOS Credits, which ideally (following the interconnected network idea) would be managed in a cloud server with your personal information, but instead, is stored locally in your `.sanctos` directory.
 
